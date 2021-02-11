@@ -1,0 +1,11 @@
+C:\Users\mariu\source\repos\DungeonMan Windows Port\bin\Debug\netcoreapp3.1\DungeonMan Windows Port.exe
+C:\Users\mariu\source\repos\DungeonMan Windows Port\bin\Debug\netcoreapp3.1\DungeonMan Windows Port.deps.json
+C:\Users\mariu\source\repos\DungeonMan Windows Port\bin\Debug\netcoreapp3.1\DungeonMan Windows Port.runtimeconfig.json
+C:\Users\mariu\source\repos\DungeonMan Windows Port\bin\Debug\netcoreapp3.1\DungeonMan Windows Port.runtimeconfig.dev.json
+C:\Users\mariu\source\repos\DungeonMan Windows Port\bin\Debug\netcoreapp3.1\DungeonMan Windows Port.dll
+C:\Users\mariu\source\repos\DungeonMan Windows Port\bin\Debug\netcoreapp3.1\DungeonMan Windows Port.pdb
+C:\Users\mariu\source\repos\DungeonMan Windows Port\obj\Debug\netcoreapp3.1\DungeonMan Windows Port.AssemblyInfoInputs.cache
+C:\Users\mariu\source\repos\DungeonMan Windows Port\obj\Debug\netcoreapp3.1\DungeonMan Windows Port.AssemblyInfo.cs
+C:\Users\mariu\source\repos\DungeonMan Windows Port\obj\Debug\netcoreapp3.1\DungeonMan Windows Port.dll
+C:\Users\mariu\source\repos\DungeonMan Windows Port\obj\Debug\netcoreapp3.1\DungeonMan Windows Port.pdb
+C:\Users\mariu\source\repos\DungeonMan Windows Port\obj\Debug\netcoreapp3.1\DungeonMan Windows Port.csprojAssemblyReference.cache
